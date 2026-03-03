@@ -1,8 +1,7 @@
 Regulador de humedad Ariston
-El modelo de aire acondicionado no viene un regulador automatico de humedad, por o que decidí crear este para controlar
-la humedad existente en mi casa
+El modelo de aire acondicionado no viene un regulador automatico de humedad, por lo que decidí crear este para controlar la humedad existente en mi casa
 
-Creado para un Arduino mega, una pantalla oled de 128 x 64, un emisor infrarrojo, un sensor de humeda y temperatura DHT22 y un pulsador
+Creado para un Arduino mega, una pantalla oled de 128 x 64, un emisor infrarrojo, un sensor de humeda y temperatura DHT22, un pulsador y un led RGB
 
 Hay que orientar el infrarrojo para que se vea con el aire a controlar.
 El programa se encarga de leer la humedad y la temperatura mostrandola en el display
