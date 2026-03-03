@@ -1,1 +1,0 @@
-Carcasas para el proyecto
